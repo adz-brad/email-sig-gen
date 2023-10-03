@@ -1,0 +1,12 @@
+.wrapper {
+    font-size: "16px";
+    user-select: "none";
+    max-width: 362;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+}

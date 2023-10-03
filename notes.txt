@@ -1,0 +1,12 @@
+Steps To Do -->
+
+- Add inputs (connect to form with useRef)
+- Add color picker
+- Design templates
+- Add social, contact SVGS
+- Add clear fields (ref.current.reset() on form ref?)
+- Create image wrappers
+- Create templates
+- Figure out how to generate html from template
+- Setup server action to collect data and send to ram (postmark?)
+- Setup server action to send email signature to client
